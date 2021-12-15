@@ -1,0 +1,21 @@
+{
+    "lang": {
+        "es": "es",
+        "ru": "ru",
+        "en": "en",
+        "de": "de"
+    },
+    "entityTypes": {
+        "pl": "pl",
+        "co": "co",
+        "fc": "fc",
+        "sf": "sf",
+        "persons": ["pl", "co"]
+    },
+    "countries": {
+        "us": "US", 
+        "gb": "GB", 
+        "es": "ES", 
+        "ru": "RU"
+    }
+}
